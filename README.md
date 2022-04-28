@@ -1,4 +1,4 @@
-# Recommendation System Using Collaborative Filtering and 
+# Recommendation System Using Collaborative Filtering
 ## Objective
  The goal is to build a recommendation system exploring 3 **collaborative filtering** techniques: 
  - User-based Filtering
